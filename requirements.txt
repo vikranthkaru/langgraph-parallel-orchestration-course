@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+Ipykernel
+langchain-groq
+Langgraph
+ddgs
+wikipedia
